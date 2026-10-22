@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Política de Privacidade — Lifeline</title>
+  <meta name="description" content="Lifeline: Backup & Restore, política de privacidade — quais dados guardamos, onde, por quanto tempo e como apagar." />
+  <link rel="icon" href="lifeline-icone-1200.png" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="wrap">
+    <header class="site-header">
+      <img src="lifeline-icone-1200.png" alt="Ícone do Lifeline" width="52" height="52" />
+      <div class="title-block">
+        <h1>Lifeline</h1>
+        <p>Backup &amp; Restore para Shopify</p>
+      </div>
+    </header>
+
+    <nav class="lang-switch" aria-label="Idioma">
+      <a href="privacy.html">English</a>
+      <a href="privacidade.html" aria-current="true">Português</a>
+    </nav>
+
+    <main>
+      <h1>Política de privacidade</h1>
+      <span class="draft-updated">Última atualização: 22 de outubro de 2026</span>
+
+      <p class="lede">
+        O Lifeline faz cópias de segurança (backups) dos produtos da sua
+        loja Shopify e permite restaurar um produto quando algo dá errado.
+        Esta página explica, em palavras simples, quais dados guardamos e o
+        que fazemos com eles.
+      </p>
+
+      <h2>O que guardamos</h2>
+      <ul>
+        <li><strong>Produtos:</strong> título, descrição, handle, fornecedor, tipo, status, tags, SEO, opções e variantes (preço, preço comparativo, SKU, código de barras e as outras configurações da variante).</li>
+        <li><strong>Imagens dos produtos:</strong> uma cópia de cada imagem e o texto alternativo. Uma imagem igual usada em vários backups é guardada uma vez só.</li>
+        <li><strong>Metafields dos produtos.</strong></li>
+        <li><strong>Coleções:</strong> título, handle, descrição, SEO, modelo do tema, metafields, as regras das coleções automáticas, uma cópia da imagem da coleção e, nas coleções manuais, a lista de produtos <strong>na ordem exata</strong> em que aparecem.</li>
+        <li><strong>Canais de venda:</strong> para cada produto e coleção, <strong>em quais canais de venda</strong> (Online Store, Shop, PDV, mercados) ele estava publicado, só os nomes dos canais. Serve para o item voltar a ficar visível ao ser restaurado.</li>
+        <li><strong>Histórico de restaurações:</strong> o que foi restaurado, quando, e o <strong>nome</strong> do funcionário da loja que fez a restauração. Não guardamos o e-mail dele.</li>
+        <li><strong>Dados técnicos da loja:</strong> o endereço da loja (ex.: <code>minhaloja.myshopify.com</code>) e as chaves de acesso que a Shopify fornece para o app funcionar.</li>
+      </ul>
+
+      <h2>O que NÃO guardamos</h2>
+      <ul>
+        <li>Dados de <strong>clientes</strong> (nome, e-mail, telefone, endereço).</li>
+        <li><strong>Pedidos.</strong></li>
+        <li><strong>Pagamentos</strong> ou dados de cartão.</li>
+      </ul>
+      <p>
+        O app pede à Shopify a permissão de produtos (<code>write_products</code>)
+        e as permissões de canais de venda (<code>read_publications</code> e
+        <code>write_publications</code>), usadas só para ler e refazer em
+        quais canais um produto ou coleção está publicado. Ele não tem
+        acesso a clientes nem a pedidos.
+      </p>
+
+      <h2>Onde guardamos</h2>
+      <p>Em servidores no Brasil. Os dados de cada loja ficam separados, e só o app tem acesso a eles.</p>
+
+      <h2>Por quanto tempo</h2>
+      <ul>
+        <li><strong>Backups:</strong> 30 dias (o prazo pode mudar conforme o seu plano; o prazo atual aparece na tela inicial do app). O backup mais recente fica sempre guardado enquanto o app estiver instalado.</li>
+        <li><strong>Imagens:</strong> apagadas quando nenhum backup guardado usa mais aquela imagem.</li>
+        <li><strong>"Desfazer" uma restauração:</strong> disponível pelo mesmo prazo dos backups.</li>
+        <li><strong>Histórico de restaurações:</strong> o dobro do prazo dos backups (60 dias no padrão), para você ver o que foi feito mesmo depois que o desfazer expira.</li>
+      </ul>
+
+      <h2>Como apagar seus dados</h2>
+      <ul>
+        <li><strong>Desinstale o app.</strong> As tarefas param na hora. Os backups ficam guardados por 48 horas, caso você reinstale. Depois disso, a Shopify nos avisa e apagamos <strong>tudo</strong> da sua loja: backups, imagens, histórico e configurações.</li>
+        <li>Se reinstalar o app dentro dessas 48 horas, seus backups continuam lá.</li>
+        <li>Depois da exclusão, guardamos apenas um registro de que ela aconteceu (a data e um código irreversível gerado a partir do endereço da loja), para provar que a exclusão foi feita. Esse registro não permite recuperar nenhum dado.</li>
+        <li>Se quiser apagar antes, escreva para <a href="mailto:zagolabs.support@proton.me">zagolabs.support@proton.me</a>.</li>
+      </ul>
+
+      <h2>Pedidos de clientes</h2>
+      <p>
+        Se um cliente da sua loja pedir os dados dele ou pedir para
+        apagá-los, a Shopify nos avisa. Como não guardamos dados de
+        clientes, não há nada a entregar ou apagar, e registramos o pedido
+        sem nenhum dado do cliente.
+      </p>
+
+      <h2>Contato</h2>
+      <p>Dúvidas sobre privacidade: <a href="mailto:zagolabs.support@proton.me">zagolabs.support@proton.me</a>.</p>
+    </main>
+
+    <footer>
+      <p><a href="index.html">&larr; Voltar para o Lifeline</a></p>
+    </footer>
+  </div>
+</body>
+</html>
