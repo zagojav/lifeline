@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://zagojav.github.io/lifeline/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zagojav.github.io/lifeline/index.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://zagojav.github.io/lifeline/index-pt.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zagojav.github.io/lifeline/index.html" />
+  </url>
+  <url>
+    <loc>https://zagojav.github.io/lifeline/index-pt.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zagojav.github.io/lifeline/index.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://zagojav.github.io/lifeline/index-pt.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zagojav.github.io/lifeline/index.html" />
+  </url>
+  <url>
+    <loc>https://zagojav.github.io/lifeline/privacy.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zagojav.github.io/lifeline/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://zagojav.github.io/lifeline/privacidade.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zagojav.github.io/lifeline/privacy.html" />
+  </url>
+  <url>
+    <loc>https://zagojav.github.io/lifeline/privacidade.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zagojav.github.io/lifeline/privacy.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://zagojav.github.io/lifeline/privacidade.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zagojav.github.io/lifeline/privacy.html" />
+  </url>
+  <url>
+    <loc>https://zagojav.github.io/lifeline/terms.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zagojav.github.io/lifeline/terms.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://zagojav.github.io/lifeline/termos.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zagojav.github.io/lifeline/terms.html" />
+  </url>
+  <url>
+    <loc>https://zagojav.github.io/lifeline/termos.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zagojav.github.io/lifeline/terms.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://zagojav.github.io/lifeline/termos.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zagojav.github.io/lifeline/terms.html" />
+  </url>
+  <url>
+    <loc>https://zagojav.github.io/lifeline/support.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zagojav.github.io/lifeline/support.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://zagojav.github.io/lifeline/suporte.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zagojav.github.io/lifeline/support.html" />
+  </url>
+  <url>
+    <loc>https://zagojav.github.io/lifeline/suporte.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://zagojav.github.io/lifeline/support.html" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://zagojav.github.io/lifeline/suporte.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://zagojav.github.io/lifeline/support.html" />
+  </url>
+</urlset>
