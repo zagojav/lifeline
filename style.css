@@ -131,7 +131,8 @@ header.site-header .title-block p {
 
 .lang-switch {
   display: flex;
-  gap: 0.6rem;
+  flex-wrap: wrap;
+  gap: 0.5rem 0.6rem;
   font-size: 0.85rem;
   margin-bottom: 2rem;
 }
